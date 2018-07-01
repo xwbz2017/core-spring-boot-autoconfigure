@@ -1,0 +1,11 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zskj.core.autoconfigure.druid.DruidAutoConfiguration,\
+com.zskj.core.autoconfigure.aliyun.sms.SmsAutoConfiguration,\
+com.zskj.core.autoconfigure.aliyun.oss.OssAutoConfiguration,\
+com.zskj.core.autoconfigure.wechat.pay.WechatPayAutoConfiguration,\
+com.zskj.core.autoconfigure.redis.RedisAutoConfiguration,\
+com.zskj.core.autoconfigure.http.HttpClientAutoConfiguration,\
+com.zskj.core.autoconfigure.aliyun.sms.SmsAutoConfiguration,\
+com.zskj.core.autoconfigure.aliyun.push.PushAutoConfiguration,\
+com.zskj.core.autoconfigure.aliyun.mns.MnsAutoConfiguration,\
+com.zskj.core.autoconfigure.baidu.YingYanAutoConfiguration
